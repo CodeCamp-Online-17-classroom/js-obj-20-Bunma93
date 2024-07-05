@@ -14,3 +14,4 @@ calculator.read();
 alert(calculator.sum());
 alert(calculator.mul());
 ```
+-ปฏิพงษศกร บุญมา(เจมส์)
